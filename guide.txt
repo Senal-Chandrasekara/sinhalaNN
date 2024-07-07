@@ -23,7 +23,6 @@ check envs folder: You will find SinhalaPaperMarker
 
 Docs: https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment
 
-
 INSTALL REQUIRED LIBRARIES AND FRAMEWORKS: -------------------------------------------------------------------------------------
 
 TensorFlow Installation: https://docs.anaconda.com/free/working-with-conda/applications/tensorflow/ 
@@ -55,3 +54,6 @@ Jupyter Lab:
 
 Install PIL Lib:
 conda install -c conda-forge pillow
+
+Install Requirements.txt libs: pip install -r requirements.txt
+ 
