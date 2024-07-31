@@ -1,1 +1,0 @@
-Download Dataset via Kaggle: https://www.kaggle.com/datasets/sathiralamal/sinhala-letter-454
